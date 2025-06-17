@@ -1,0 +1,14 @@
+[
+  {
+    "critical": {
+      "identity": {
+        "docker-reference": "registry.gitlab.com/felicemicillo13/ssproject/express"
+      },
+      "image": {
+        "docker-manifest-digest": "sha256:a929d8ba459f5c40bd7e119bf1d4cf78c553671fe5c9e5e63207c8488a22d3e1"
+      },
+      "type": "cosign container image signature"
+    },
+    "optional": null
+  }
+]
